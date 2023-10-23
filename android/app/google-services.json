@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428182794556",
+    "project_id": "zindgi-c6969",
+    "storage_bucket": "zindgi-c6969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428182794556:android:c489dea6ba3a9c8c84ee39",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp6uydtr5urHaRRSE91xSjOtXBJSdHJbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
